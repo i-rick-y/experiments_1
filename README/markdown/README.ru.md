@@ -4,7 +4,6 @@
 [![en](/README/markdown/assets/language-badges/en.svg)](/README/markdown/README.en.md)
 [![cn](/README/markdown/assets/language-badges/cn.svg)](/README/markdown/README.cn.md)
 
-Главный файл системы - `./main.py`.
-Запустив его из командной строки, сгенерирутся и выведутся вариации эфолюции **[1-мерного замкнутого КЛА](https://en.wikipedia.org/wiki/Cellular_automaton)** согласно классификации **[Стивена Вольфрама](https://en.wikipedia.org/wiki/Stephen_Wolfram)**.
+Запустив из командной строки главный файл системы `./main.py`, произойдет генерация и вывод вариаций эфолюции **[1-мерного замкнутого КЛА](https://en.wikipedia.org/wiki/Cellular_automaton)** согласно классификации **[Стивена Вольфрама](https://en.wikipedia.org/wiki/Stephen_Wolfram)**.
 
-Изменить параметры системы можно в `./parameters/parameters.py`.
+В `./parameters/parameters.py` можно изменить параметры системы.
