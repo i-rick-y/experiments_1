@@ -1,6 +1,5 @@
 # File of project's components.
 
-
 from parameters.parameters import o, output_mode as mode, height, width, field, field_initial_state
 
 

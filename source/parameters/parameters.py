@@ -11,7 +11,6 @@
 # 
 #   height, width: [int, int] - AUTOMATIC! responsable of field's plot size. Default is the terminal size.
 
-
 import os
 from math import floor
 
